@@ -1,3 +1,8 @@
+#' Complete list of palettes
+#' 
+#' Use \code{\link{psb_palette}} go get palettes of desired lenght
+#' 
+#' @export
 psb_palettes <- list(
   Please = c("#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"),
   Actually = c("#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"),
@@ -15,3 +20,4 @@ psb_palettes <- list(
   Hotspot = c("#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"),
   Nonetheless = c("#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF")
 )
+
