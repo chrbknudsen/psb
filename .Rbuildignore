@@ -1,6 +1,7 @@
 ^.*\.Rproj$
 ^CITATION\.cff$
 ^LICENSE.md$
+^LICENSE\.md$
 ^README\.Rmd$
 ^\.Rproj\.user$
 ^\.github$
@@ -15,4 +16,3 @@
 ^organisation.yml$
 ^pkgdown$
 ^psb\.Rproj$
-^LICENSE\.md$
