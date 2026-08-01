@@ -4,8 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Christian", "Knudsen", , "chrbknudsen@proton.me", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: CC BY 4.0
 URL: https://github.com/chrbknudsen/psb
 BugReports: https://github.com/chrbknudsen/psb/issues
 Encoding: UTF-8
