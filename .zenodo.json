@@ -1,7 +1,7 @@
 {
   "title": "psb: A Pet Shop Boys Palette Generator",
   "version": "0.0.0.9000",
-  "license": "CC BY 4.0",
+  "license": "MIT",
   "upload_type": "software",
   "description": "<p>What the package does (one paragraph).<\/p>",
   "keywords": [
