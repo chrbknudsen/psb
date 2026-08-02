@@ -1,0 +1,18 @@
+citeme version: 0.1.4
+git: https://github.com/chrbknudsen
+chrbknudsen@proton.me:
+  name:
+    en-GB: Christian Knudsen
+  email: chrbknudsen@proton.me
+  orcid: no
+  rightsholder: optional
+  funder: optional
+  publisher: optional
+  license:
+    package:
+      GPL-3.0: https://raw.githubusercontent.com/inbo/citeme/refs/heads/main/inst/licenses/gplv3.md
+      MIT: https://raw.githubusercontent.com/inbo/citeme/refs/heads/main/inst/licenses/mit.md
+    project:
+      CC BY 4.0: https://raw.githubusercontent.com/inbo/citeme/refs/heads/main/inst/licenses/cc_by_4_0.md
+    data:
+      CC0: https://raw.githubusercontent.com/inbo/citeme/refs/heads/main/inst/licenses/cc0.md
