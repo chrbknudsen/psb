@@ -16,7 +16,7 @@ contact:
   affiliation: ~
   orcid: ~
 doi: ~
-license: CC BY 4.0
+license: MIT
 repository-code: https://github.com/chrbknudsen/psb/
 type: software
 abstract: "What the package does (one paragraph)."
