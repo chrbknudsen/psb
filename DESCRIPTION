@@ -12,3 +12,4 @@ Language: en-GB
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
 X-schema.org-keywords: r, ggplot2, Pet Shop Boys
+Config/citeme/keywords: r; ggplot2; Pet Shop Boys
