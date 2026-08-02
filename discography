@@ -7,9 +7,13 @@ Bilingual (1996)https://en.wikipedia.org/wiki/Bilingual_(album)
 Nightlife (1999) https://en.wikipedia.org/wiki/Nightlife_(Pet_Shop_Boys_album)
 Release (2002) https://en.wikipedia.org/wiki/Release_(Pet_Shop_Boys_album)
 Fundamental (2006) https://en.wikipedia.org/wiki/Fundamental_(Pet_Shop_Boys_album)
-Yes (2009) https://en.wikipedia.org/wiki/Yes_(Pet_Shop_Boys_album)
+Yes (2009) https://en.wikipedia.org/wiki/Yes_(Pet_Shop_Boys_album) https://en.wikipedia.org/wiki/Yes_(Pet_Shop_Boys_album)#/media/File:Pet_Shop_Boys_-_Yes.png
 Elysium (2012) https://en.wikipedia.org/wiki/Elysium_(Pet_Shop_Boys_album)
 Electric (2013) https://en.wikipedia.org/wiki/Electric_(Pet_Shop_Boys_album)
 Super (2016) https://en.wikipedia.org/wiki/Super_(Pet_Shop_Boys_album)
 Hotspot (2020) https://en.wikipedia.org/wiki/Hotspot_(album)
 Nonetheless (2024) https://en.wikipedia.org/wiki/Nonetheless
+
+
+checklist::check_package()
+devtools::check()
