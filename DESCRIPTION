@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Christian Knudsen", , , "chrbknudsen@proton.me", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
-License: CC BY 4.0
+License: MIT + file LICENSE
 URL: https://github.com/chrbknudsen/psb
 BugReports: https://github.com/chrbknudsen/psb/issues
 Config/citeme/keywords: r; ggplot2; Pet Shop Boys
