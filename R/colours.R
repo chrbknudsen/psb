@@ -23,14 +23,6 @@ psb_palettes <- list(
 
 pal <- psb_palettes[["Yes"]]
 
-graphics::image(
-  x = seq_along(pal),
-  y = 1,
-  z = matrix(seq_along(pal), nrow = 1),
-  col = pal,
-  axes = FALSE
-
-)
 n <- length(pal)
 graphics::plot.new()
 graphics::plot.window(
