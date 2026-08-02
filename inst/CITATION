@@ -1,0 +1,13 @@
+citHeader("To cite `psb` in publications please use:")
+# begin citeme entry
+bibentry(
+  bibtype = "Manual",
+  title = "psb: A Pet Shop Boys Palette Generator. Version 0.0.0.9000",
+  author = c(person(given = "Christian Knudsen",),
+  year = 2026,
+  url = "https://github.com/chrbknudsen/psb/",
+  abstract = "What the package does (one paragraph).",
+  textVersion = "Christian Knudsen (2026) psb: A Pet Shop Boys Palette Generator. Version 0.0.0.9000. https://github.com/chrbknudsen/psb/",
+  keywords = "r; ggplot2; Pet Shop Boys",
+)
+# end citeme entry
