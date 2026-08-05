@@ -1,6 +1,6 @@
 #' Complete list of palettes
 #'
-#' Use \code{\link{psb_palette}} go get palettes of desired lenght
+#' Use \code{\link{psb_palette}} go get palettes of desired length
 #'
 #' @export
 psb_palettes <- list(
@@ -22,6 +22,12 @@ psb_palettes <- list(
   Nonetheless = c("#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF")
 )
 
+
+print.palette <- function(x, ...){
+  
+}
+
+
 pal <- psb_palettes[["Yes"]]
 
 n <- length(pal)
@@ -40,4 +46,3 @@ graphics::rect(
   border  = NA
 )
 graphics::title(main = "Yes")
-graphics::mtext(text = "psb")
