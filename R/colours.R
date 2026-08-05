@@ -13,8 +13,10 @@ psb_palettes <- list(
   Nightlife = c("#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"),
   Release = c("#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"),
   Fundamental = c("#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"),
-  Yes = c("#94087f", "#98c105", "#e40014", "#64b9e5", "#ffcd00", "#6362a6",
-          "#e50061", "#009233", "#00338c", "#f08b00", "#009cb3"),
+  Yes = c(
+    "#94087f", "#98c105", "#e40014", "#64b9e5", "#ffcd00", "#6362a6",
+    "#e50061", "#009233", "#00338c", "#f08b00", "#009cb3"
+  ),
   Elysium = c("#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"),
   Electric = c("#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"),
   Super = c("#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"),
@@ -23,9 +25,7 @@ psb_palettes <- list(
 )
 
 
-print.palette <- function(x, ...){
-  
-}
+print.palette <- function(x, ...) {}
 
 
 pal <- psb_palettes[["Yes"]]
