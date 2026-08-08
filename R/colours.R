@@ -28,22 +28,19 @@ psb_palettes <- list(
 print.palette <- function(x, ...) {
   pal <- psb_palettes[[x]]
   n <- length(pal)
-graphics::plot.new()
-graphics::plot.window(
-  xlim = c(0, n),
-  ylim = c(0, 1),
-  main = x
-)
-graphics::rect(
-  xleft   = 0:(n - 1),
-  ybottom = 0,
-  xright  = 1:n,
-  ytop    = 1,
-  col     = pal,
-  border  = NA
-)
-graphics::title(main = x) ## er denne faktisk nødvendig?
+  graphics::plot.new()
+  graphics::plot.window(
+    xlim = c(0, n),
+    ylim = c(0, 1),
+    main = x
+  )
+  graphics::rect(
+    xleft   = 0:(n - 1),
+    ybottom = 0,
+    xright  = 1:n,
+    ytop    = 1,
+    col     = pal,
+    border  = NA
+  )
+  graphics::title(main = x) ## er denne faktisk nødvendig?
 }
-
-
-
