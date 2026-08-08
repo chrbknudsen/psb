@@ -6,7 +6,7 @@
 psb_palettes <- list(
   Please = c("#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"),
   Actually = c("#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"),
-  Introspective = c("#eb038b", "#faec03", "#ea1e29", "#02a451", "#eb038b", "#b2208d", "#5d308f" ),
+  Introspective = c("#eb038b", "#faec03", "#ea1e29", "#02a451", "#eb038b", "#b2208d", "#5d308f"),
   Behaviour = c("#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"),
   Very = c("#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"),
   Bilingual = c("#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"),
@@ -25,17 +25,14 @@ psb_palettes <- list(
 )
 
 
-print.palette <- function(x, ...) {}
-
-
-pal <- psb_palettes[["Yes"]]
-
-n <- length(pal)
+print.palette <- function(x, ...) {
+  pal <- psb_palettes[[x]]
+  n <- length(pal)
 graphics::plot.new()
 graphics::plot.window(
   xlim = c(0, n),
   ylim = c(0, 1),
-  main = "yes"
+  main = x
 )
 graphics::rect(
   xleft   = 0:(n - 1),
@@ -45,4 +42,8 @@ graphics::rect(
   col     = pal,
   border  = NA
 )
-graphics::title(main = "Yes")
+graphics::title(main = x) ## er denne faktisk nødvendig?
+}
+
+
+
