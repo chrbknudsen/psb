@@ -6,6 +6,9 @@
 \usage{
 psb_palette(x)
 }
+\arguments{
+\item{x}{name of psb album NEED UPDATE}
+}
 \description{
 Use \code{\link[=psb_palette]{psb_palette()}} to get palettes of the desired length.
 }

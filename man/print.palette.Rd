@@ -8,6 +8,11 @@
 }
 \arguments{
 \item{x}{Name of album - NEED UPDATE}
+
+\item{...}{Additional arguments, currently unused.}
+}
+\value{
+\code{x}, invisibly.
 }
 \description{
 NEEDS UPDATE
