@@ -31,7 +31,9 @@ psb_palettes <- list(
 #'
 #' NEEDS UPDATE
 #' Use [psb_palette()] to get palettes of the desired length.
-#'
+#' 
+#' @param x Name of album - NEED UPDATE
+#' 
 #' @export
 print.palette <- function(x, ...) {
   pal <- psb_palettes[[x]]
