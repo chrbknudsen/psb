@@ -1,12 +1,12 @@
 citeme version: 0.1.4
 git: https://github.com/chrbknudsen
 
-personal-projects@example.org:
+copyright@example.org:
   name:
-    en-GB: Personal projects
-  email: personal-projects@example.org
+    en-GB: Christian Knudsen
+  email: copyright@example.org
   orcid: no
-  rightsholder: optional
+  rightsholder: single
   funder: optional
   publisher: optional
   license:
