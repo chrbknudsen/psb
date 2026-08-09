@@ -1,11 +1,12 @@
 citeme version: 0.1.4
 git: https://github.com/chrbknudsen
-chrbknudsen@proton.me:
+
+personal-projects@example.org:
   name:
-    en-GB: Christian Knudsen
-  email: chrbknudsen@proton.me
+    en-GB: Personal projects
+  email: personal-projects@example.org
   orcid: no
-  rightsholder: single
+  rightsholder: optional
   funder: optional
   publisher: optional
   license:
