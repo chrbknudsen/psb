@@ -11,6 +11,6 @@ An object of class \code{list} of length 15.
 psb_palettes
 }
 \description{
-Use \code{\link{psb_palette}} go get palettes of desired length
+Use \code{\link[=psb_palette]{psb_palette()}} to get palettes of the desired length.
 }
 \keyword{datasets}

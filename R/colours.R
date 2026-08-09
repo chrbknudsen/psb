@@ -1,6 +1,6 @@
 #' Complete list of palettes
 #'
-#' Use \code{\link{psb_palette}} go get palettes of desired length
+#' Use [psb_palette()] to get palettes of the desired length.
 #'
 #' @export
 psb_palettes <- list(
