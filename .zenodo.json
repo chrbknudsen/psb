@@ -1,0 +1,30 @@
+{
+  "title": "psb: A Pet Shop Boys Palette Generator",
+  "version": "0.0.1.1",
+  "license": "MIT",
+  "upload_type": "software",
+  "description": "<p>Generates PSB themed palettes.<\/p>",
+  "keywords": [
+    "r",
+    "ggplot2",
+    "Pet Shop Boys"
+  ],
+  "access_right": "open",
+  "language": "eng",
+  "contributors": [
+    {
+      "name": "Knudsen, Christian",
+      "type": "contactperson"
+    },
+    {
+      "name": "Christian Knudsen",
+      "type": "rightsholder"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Knudsen, Christian"
+    }
+  ],
+  "communities": []
+}

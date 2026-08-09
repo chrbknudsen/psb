@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: "psb: A Pet Shop Boys Palette Generator"
+authors:
+- given-names: Christian
+  family-names: Knudsen
+  affiliation: ~
+  orcid: ~
+keywords:
+- r
+- ggplot2
+- Pet Shop Boys
+contact:
+- given-names: Christian
+  family-names: Knudsen
+  affiliation: ~
+  orcid: ~
+doi: ~
+license: MIT
+repository-code: https://github.com/chrbknudsen/psb/
+type: software
+abstract: "Generates PSB themed palettes."
+version: 0.0.1.1
