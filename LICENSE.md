@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2026 psb authors
+Copyright (c) 2026 Christian Knudsen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
