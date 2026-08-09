@@ -20,4 +20,4 @@ license: MIT
 repository-code: https://github.com/chrbknudsen/psb/
 type: software
 abstract: "What the package does (one paragraph)."
-version: 0.0.0.9
+version: 0.0.1
