@@ -1,8 +1,19 @@
 Package: psb
 Title: A Pet Shop Boys Palette Generator
 Version: 0.0.1
-Authors@R:
-    person("Christian", "Knudsen", , "chrbknudsen@proton.me", role = c("aut", "cre", "cph"))
+Authors@R: c(
+    person(
+      given = "Christian",
+      family = "Knudsen",
+      email = "chrbknudsen@proton.me",
+      role = c("aut", "cre")
+    ),
+    person(
+      given = "Christian Knudsen",
+      email = "copyright@example.org",
+      role = "cph"
+    )
+  )
 Description: Generates PSB themed palettes.
 License: MIT + file LICENSE
 URL: https://github.com/chrbknudsen/psb
