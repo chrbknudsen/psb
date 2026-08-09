@@ -33,6 +33,9 @@ psb_palettes <- list(
 #' Use [psb_palette()] to get palettes of the desired length.
 #' 
 #' @param x Name of album - NEED UPDATE
+#' @param ... Additional arguments, currently unused.
+#'
+#' @return `x`, invisibly.
 #' 
 #' @export
 print.palette <- function(x, ...) {
@@ -53,4 +56,5 @@ print.palette <- function(x, ...) {
     border  = NA
   )
   graphics::title(main = x) ## er denne faktisk nødvendig?
+  invisible(x)
 }
