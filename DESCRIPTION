@@ -1,6 +1,6 @@
 Package: psb
 Title: A Pet Shop Boys Palette Generator
-Version: 0.0.1
+Version: 0.0.1.1
 Authors@R: c(
     person(
       given = "Christian",
