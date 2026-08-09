@@ -27,7 +27,12 @@ psb_palettes <- list(
   Nonetheless = c("#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF")
 )
 
-
+#' Prints an example of the chosen palette
+#'
+#' NEEDS UPDATE
+#' Use [psb_palette()] to get palettes of the desired length.
+#'
+#' @export
 print.palette <- function(x, ...) {
   pal <- psb_palettes[[x]]
   n <- length(pal)
