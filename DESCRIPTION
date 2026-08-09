@@ -1,6 +1,6 @@
 Package: psb
 Title: A Pet Shop Boys Palette Generator
-Version: 0.0.1.1
+Version: 0.0.2
 Authors@R: c(
     person("Christian", "Knudsen", , "chrbknudsen@proton.me", role = c("aut", "cre")),
     person("Christian Knudsen", , , "copyright@example.org", role = "cph")
